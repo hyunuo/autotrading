@@ -1,8 +1,4 @@
-"""
-Created on Sun Nov 21 23:50:32 2021
 
-@author: 김현우
-"""
 import time
 import pyupbit
 import datetime
